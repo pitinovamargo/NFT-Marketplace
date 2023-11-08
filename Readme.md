@@ -19,7 +19,7 @@ Application goals:
 - User can view other users' rating and users' information.
 - The user can view his profile, including information about favorites and NFTs owned by him.
 
-Additional functionality is:
+Additional functionality:
 - localization
 - dark theme
 - onboarding screen
