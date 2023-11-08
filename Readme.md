@@ -32,6 +32,8 @@ Additional functionality is:
 - Code layout
 - UITableView, UICollectionView, UITabBarController, WKWebView, UIPageController, UIScrollView
 - URLSession
+- UserDefaults
+- Multithreading
 - Swift Package Manager
 - GCD
 - YandexMetrica
