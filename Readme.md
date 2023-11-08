@@ -26,7 +26,7 @@ Additional functionality is:
 - an alert with an offer to rate the app in the AppStore
 - custom launch screen
 
-  ## Technology stack ##
+## Technology stack ##
 - Swift, UIKit
 - Architecture: MVP
 - Code layout
